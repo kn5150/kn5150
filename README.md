@@ -2,7 +2,7 @@
 
 ![alt text](https://user-images.githubusercontent.com/101081243/157005209-f9622af3-b8d1-4e69-bc6a-a2e5d518c183.gif)
 
-- 🔭 I’m currently brushing up on spreadsheet knowledge 📈
+- 🔭 I’m currently working on developing a Google Site to provide training resources for IAs like myself 👀
 - 🌱 I’m currently learning computer science fundamentals 🖥️
 - 👯 I’m looking to collaborate on any kind of project that will help me learn/apply new skills 🥼
 - 🤔 I’m looking for help with understanding all these things 🧠

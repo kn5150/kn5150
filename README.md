@@ -8,8 +8,7 @@
 - 🤔 I’m looking for help with understanding all these things 🧠
 - 💬 Ask me about anything 😄
 - 📫 How to reach me: [Discord](https://discord.com/) seta#5704
-- ⚡ Fun fact: I'm a keyboard enthusiast! ⌨️
-
+- ⚡ Fun fact: I'm an INTP
 
 ### Check my other things:
 

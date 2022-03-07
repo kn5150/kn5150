@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I'm a keyboard enthusiast! ⌨️
 
 
-Check my progress:
+### Check my progress:
 
 - DataCamp: https://www.datacamp.com/profile/keola
 - Scratch: https://scratch.mit.edu/users/knaka4000/

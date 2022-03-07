@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any kind of project that will help me learn/apply new skills 🥼
 - 🤔 I’m looking for help with understanding all these things 🧠
 - 💬 Ask me about anything 😄
-- 📫 How to reach me: Discord seta#5704
+- 📫 How to reach me: [Discord] seta#5704
 - ⚡ Fun fact: I'm a keyboard enthusiast! ⌨️
 
 

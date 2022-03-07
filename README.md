@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://user-images.githubusercontent.com/101081243/157005209-f9622af3-b8d1-4e69-bc6a-a2e5d518c183.gif)
+![alt text](https://user-images.githubusercontent.com/101081243/157005209-f9622af3-b8d1-4e69-bc6a-a2e5d518c183.gif)
 
 - 🔭 I’m currently working on brushing up spreadsheet knowledge 📈
 - 🌱 I’m currently learning computer science fundamentals 🖥️
